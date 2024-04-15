@@ -1,0 +1,60 @@
+*{
+    font-family: sans-serif;
+   
+}
+/* body{
+    width: 400px;
+} */
+.navBar{
+    justify-content: space-between;
+}
+.skip{
+    margin-top: 10px;
+    float: right;
+}
+.text{
+    margin-top: 50px;
+}
+.next{
+    float: right;
+    margin-top: 40px;
+}
+input[type=text]{
+    background-color:gainsboro;
+    border-radius:10px;
+    height: 30px;
+    width: 300px;
+    border: 3px solid gainsboro;
+    margin-bottom: 15px;
+}
+.android-4{
+    align-items: center;
+    margin: auto;
+    background-color: cornflowerblue;
+    height: 50px;
+    width: 300px;
+    align-items: center;
+    margin-left: 60px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    border: 0px;
+    border-radius: 10px;
+}
+.fa-brands{
+    border: 1px solid black;
+    padding:2px;
+    width:15px;
+}
+.google{
+    margin-top: 20px;
+        margin-left: 40%;
+
+}
+.box{
+    background-color:gainsboro;
+    border-radius:10px;
+    height: 30px;
+    width: 280px;
+    border: 3px solid gainsboro;
+    margin-bottom: 15px;
+}
